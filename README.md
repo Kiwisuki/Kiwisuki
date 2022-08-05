@@ -6,4 +6,4 @@
 
 - 🏠 Aruodas.lt flat's price prediction model, current median accuracy: 8.96%. Check out the repo [here](https://github.com/Kiwisuki/Real-Estate-Price-Prediction). 😊
 
-- 🌐 Simple, functioning Real Estate website, prototyped after Aruodas.lt, made using Flask, MySQL and MagicDraw. Check out the repo [here](https://github.com/Kiwisuki/Basic-Real-Estate-Website-Flask).
+- 🌐 Simple, functioning Real Estate website, prototyped after Aruodas.lt, made using Flask, MySQL and MagicDraw. [Check it out](https://github.com/Kiwisuki/Basic-Real-Estate-Website-Flask).
