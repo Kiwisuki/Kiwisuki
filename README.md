@@ -4,7 +4,7 @@
 
 💼 These are my finished Portfolio Projects:
 
-- 🏠 Aruodas.lt flat's price prediction Machine Learning model, current median accuracy: 8.96%. 
+- 🏠 Aruodas.lt flat's price prediction Machine Learning model, current median accuracy: 8.05%. 
 Check out the repo [Check it out](https://github.com/Kiwisuki/Real-Estate-Scraper/blob/main/Data-cleaning-engineering-modelling.ipynb). 😊
 
 - 🌐 Simple, functioning Real Estate website, prototyped after Aruodas.lt, made using Flask, MySQL and MagicDraw. [Check it out](https://github.com/Kiwisuki/Basic-Real-Estate-Website-Flask). 😊
