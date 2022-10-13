@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🥝 I am aspiring Data Scientist with extra interests in Economics and Real Estate
+🥝 I am Junior Data Scientist at Surfshark with extra interests in Economics and Real Estate
 
 💼 These are my finished Portfolio Projects:
 
