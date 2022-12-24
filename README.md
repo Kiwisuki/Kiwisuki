@@ -4,8 +4,9 @@
 
 💼 These are my finished Portfolio Projects:
 
-- 🏠 Aruodas.lt flat's price prediction Machine Learning model, current median accuracy: 6.99%. 
-Check out the repo [Check it out](https://nbviewer.org/github/Kiwisuki/Real-Estate-Scraper/blob/main/Aruodas.ipynb). 😊
-
-- 🌐 Simple, functioning Real Estate website, prototyped after Aruodas.lt, made using Flask, MySQL and MagicDraw. [Check it out](https://github.com/Kiwisuki/Basic-Real-Estate-Website-Flask). 😊
-- 🌐 Selenium based web scraper for Aruodas.lt, aggregates all data to MongoDB cloud database, used techniques to avoid Cloudflare bot detection.(Also includes whole data science project with real estate) [Check it out](https://github.com/Kiwisuki/Real-Estate-Scraper). 😊
+- 🏠 Real Estate Project, that consists of:
+* Ad scraper from Aruodas.lt , scrapes and aggregates data into MongoDB databse.
+* Machine learning model that regresses flat's price, rent, median error ~8%
+* Flask website, that is able to regress flat's price, rent, ROI from Aruodas.lt link, using a simple api that invokes scraper,
+then transforms data into usable format for machine learning models.
+Check out the repo [Check it out](https://github.com/Kiwisuki/Real-Estate-Project). 😊
