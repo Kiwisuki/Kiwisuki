@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🥝 I am Junior Data Scientist at Surfshark with extra interests in Economics and Real Estate
+🥝 I am a Data Scientist at Surfshark with extra interests in Economics and Real Estate
 
 My portfolio real estate project:
 * Ad scraper from Aruodas.lt , scrapes and aggregates data into MongoDB databse.
